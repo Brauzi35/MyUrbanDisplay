@@ -36,6 +36,7 @@ public class GUI implements ActionListener {
 		
 		button.addActionListener(this);
 		//speramo bene
+		//  e se passiamo andiamo a festeggiare ad Ariccia
 		
 		
 	}
